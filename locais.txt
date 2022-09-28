@@ -1,0 +1,26 @@
+walls = [
+        {x:10, y:20, w:1700, h:40},//bloco superior
+        {x:10, y:450, w:1700, h:40},
+        {x:10, y:450,w: 40, h: 900 },//bloco da esquerda
+        {x:600,y:50 , w: 250, h: 40,},//escada reversa
+        {x:600,y:90 , w: 150, h: 40},//escada reversa
+        {x:600,y:130 , w: 80, h: 40}, //escada reversa
+        {x:700, y:300, w:250, h:40},//L ao contrário
+        {x:800,y:370, w:50, h:120},//L ao contrário
+        {x:300, y:300, w:250, h:40}, //L ao contrário
+        {x:200,y:370, w:50, h:120},//L ao contrário
+        { x: 1000, y: 20, w: 2000, h:40 }, //bloco superior
+        { x: 1000, y: 450, w: 2000, h: 40 }, // bloco inferior 1
+        { x: 900, y: 450, w: 40, h: 700 }, // bloco da esquerda
+        { x: 1100, y: 165, w: 200, h: 250 },//bloco grande
+        { x: 1250, y: 420, w: 50, h: 25 },//escadas
+        { x: 1300, y: 395, w: 50, h: 25 },//escadas
+        { x: 1350, y: 370, w: 50, h: 25 },//escadas
+        { x: 1500, y: 370, w: 50, h: 25 },//escada reversa
+        { x: 1550, y: 395, w: 50, h: 25 },//escada reversa
+        { x: 1600, y: 420, w: 50, h: 25 },//escada reversa
+        { x: 1760, y: 150, w: 250, h: 40 },
+        { x: 1900, y: 105, w: 40, h: 130 },
+        { x: 1950, y: 350, w: 100, h: 250 },
+        
+    ];
